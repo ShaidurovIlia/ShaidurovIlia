@@ -17,9 +17,9 @@ I studied at the course [Job4j](https://job4j.ru/)☕
   ![Travis](https://img.shields.io/badge/Travis-CI-red)
   
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaidurovIlia&layout=compact)](https://github.com/ShamRail/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaidurovIlia&layout=compact)
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaidurovIlia)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaidurovIlia&anuraghazra&show_icons=true&theme=tokyonight)
 
 <!--
 **ShaidurovIlia/ShaidurovIlia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
