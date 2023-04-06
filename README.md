@@ -1,10 +1,16 @@
-### Hi! My name is Ilya! [Welcome](https://t.me/Ilya_S94):v: 
+### Hi! My name is Ilya! Welcome:v: Write [my](https://t.me/Ilya_S94) 📱 
 
 I am a 28-year-old programmer from St. Petersburg.💻
 
-I studied at the course [Job4j](https://job4j.ru/)☕
+My Java experience > 1,5 year ⌚  [Job4j](https://job4j.ru/)
 
- My Java experience > 1 year⌚
+ My projects on Java ☕:
+ 
+ * [Dream Job ](https://github.com/ShaidurovIlia/job4j_dreamjob) Java, Maven, Spring boot, PostgreSQL, Liquibase, Thymeleaf, Bootstrap, JUnit , AssertJ
+ * [Car Accident](https://github.com/ShaidurovIlia/accidents) Spring (MVC, ORM, Data, Security), JSP, JSTL, JDBC, Hibernate, Maven, Tomcat
+ * [Todo List](https://github.com/ShaidurovIlia/job4j_todo_list) Java, Servlets, PostgreSQL, Hibernate, Liquibase, JUnit, Mockito, Maven, Tomcat 
+ 
+ 
  
 ----
 <b>Core technologies:<b>
