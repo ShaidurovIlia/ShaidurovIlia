@@ -1,9 +1,13 @@
 ### Hi! My name is Ilya! Welcome:v: Write [my](https://t.me/Ilia_aQa) 📱 
 
 I'm a 30-year-old QA Automation Engineer from Serbia 🇷🇸
+
 I have 3+ years of experience in test automation 💻
+
 🔍 I write automated tests using Java/Kotlin + Selenide/JUnit
+
 📂 I cover UI, API, and integration tests
+
 🚀 I’m into clean code, readable reports (Allure ❤️), and stable pipelines
 
 🧪 Check out some of my projects on GitHub 👇
