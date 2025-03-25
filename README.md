@@ -1,10 +1,13 @@
 ### Hi! My name is Ilya! Welcome:v: Write [my](https://t.me/Ilia_aQa) 📱 
 
-I am a 28-year-old programmer from St. Petersburg.💻
+I'm a 30-year-old QA Automation Engineer from Serbia 🇷🇸
+I have 3+ years of experience in test automation 💻
+🔍 I write automated tests using Java/Kotlin + Selenide/JUnit
+📂 I cover UI, API, and integration tests
+🚀 I’m into clean code, readable reports (Allure ❤️), and stable pipelines
 
-My Java experience > 1,5 year ⌚  [Job4j](https://job4j.ru/)
-
- My projects on Java ☕:
+🧪 Check out some of my projects on GitHub 👇
+(Java/Kotlin based) ☕
  
  * [Dream Job ](https://github.com/ShaidurovIlia/job4j_dreamjob) Java, Maven, Spring boot, PostgreSQL, Liquibase, Thymeleaf, Bootstrap, JUnit , AssertJ
  * [Car Accident](https://github.com/ShaidurovIlia/accidents) Spring (MVC, ORM, Data, Security), JSP, JSTL, JDBC, Hibernate, Maven, Tomcat
