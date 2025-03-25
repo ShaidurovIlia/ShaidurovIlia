@@ -1,4 +1,4 @@
-### Hi! My name is Ilya! Welcome ✌️ Write [my tg] (https://t.me/Ilia_aQa) 📱 
+### Hi! My name is Ilya! Welcome ✌️ Write [my tg](https://t.me/Ilia_aQa) 📱 
 
 I'm a 30-year-old QA Automation Engineer from Serbia 🇷🇸
 
